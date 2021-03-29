@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/NikkiHmltn/d-and-d-api#readme",
   "dependencies": {
+    "chai": "^4.3.4",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mongodb": "^3.6.5",
